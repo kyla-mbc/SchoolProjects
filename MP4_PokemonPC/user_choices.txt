@@ -1,0 +1,20 @@
+Successfully logged in
+Added Raticate to box 2
+Current contents of box 2:
+Name: Raticate
+Type: Normal
+Level: 4
+Health: 55
+Attack: 81
+Defense: 60
+Pokedex ID: 20
+Empty Slot
+Empty Slot
+Empty Slot
+Empty Slot
+Empty Slot
+Empty Slot
+Empty Slot
+Empty Slot
+Empty Slot
+
