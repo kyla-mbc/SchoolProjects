@@ -1,0 +1,89 @@
+
+Player: Warlock(Kyla) vs Rogue
+
+
+Round 1:
+	Warlock chose: Dodge
+	Rogue chose: Attack
+	Warlock's damage done: 0
+	Rogue's damage done: 0
+	Warlock's health: 90, Rogue's health: 60
+
+Round 2:
+	Warlock chose: Attack
+	Rogue chose: Attack
+	Warlock's damage done: 13
+	Rogue's damage done: 8
+	Warlock's health: 82, Rogue's health: 47
+
+Round 3:
+	Warlock chose: Attack
+	Rogue chose: Attack
+	Warlock's damage done: 21
+	Rogue's damage done: 15
+	Warlock's health: 67, Rogue's health: 26
+
+Round 4:
+	Warlock chose: Attack
+	Rogue chose: Dodge
+	Warlock's damage done: 0
+	Rogue's damage done: 0
+	Warlock's health: 67, Rogue's health: 26
+
+Round 5:
+	Warlock chose: Dodge
+	Rogue chose: Attack
+	Warlock's damage done: 0
+	Rogue's damage done: 0
+	Warlock's health: 67, Rogue's health: 26
+
+Round 6:
+	Warlock chose: Attack
+	Rogue chose: Dodge
+	Warlock's damage done: 0
+	Rogue's damage done: 0
+	Warlock's health: 67, Rogue's health: 26
+
+Round 7:
+	Warlock chose: Attack
+	Rogue chose: Dodge
+	Warlock's damage done: 0
+	Rogue's damage done: 0
+	Warlock's health: 67, Rogue's health: 26
+
+Round 8:
+	Warlock chose: Dodge
+	Rogue chose: Dodge
+	Warlock's damage done: 0
+	Rogue's damage done: 0
+	Warlock's health: 67, Rogue's health: 26
+
+Round 9:
+	Warlock chose: Dodge
+	Rogue chose: Dodge
+	Warlock's damage done: 0
+	Rogue's damage done: 0
+	Warlock's health: 67, Rogue's health: 26
+
+Round 10:
+	Warlock chose: Dodge
+	Rogue chose: Attack
+	Warlock's damage done: 0
+	Rogue's damage done: 0
+	Warlock's health: 67, Rogue's health: 26
+
+Round 11:
+	Warlock chose: Attack
+	Rogue chose: Attack
+	Warlock's damage done: 24
+	Rogue's damage done: 0
+	Warlock's health: 67, Rogue's health: 2
+
+Round 12:
+	Warlock chose: Attack
+	Rogue chose: Attack
+	Warlock's damage done: 22
+	Rogue's damage done: 11
+	Warlock's health: 56, Rogue's health: 0
+
+Congratulations Myra, You have defeated the Rogue!

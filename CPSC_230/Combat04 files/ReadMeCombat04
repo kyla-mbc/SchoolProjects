@@ -1,0 +1,18 @@
+## Identifying Information: 
+1. Name:Kyla Monique Cabrera 
+2. Class: CPSC 230
+3. Assignment: Combat04.py
+
+## Collaborators 
+1. Manuel Pangelinan
+
+## References
+1. https://www.dndbeyond.com/classes/rogue
+2. Zybooks
+
+## Files 
+1. Combat04.py
+2. Combat04trial.txt
+
+## Description of Code
+The code lets the user go to combat with the computer by utilizing themes from the game "Dungeons and Dragons." It should be noted that none of the inputs in this game are case sensitive to capitalization, so they may be written in upper or lower case. Each round is separated by a number of that round and the actions and results of each round are printed in a Transcript that can be named by the user. The user is greeted by the game and can choose which character they would like to play from a table of charactes and may also choose who their opponent would be. A "random" option is available for users to be assigned a random opponent.The statistics for each character which include the Player Type, Health, Attack, Attack Dice, Armor Class, Special Attack, and a cooldown are are printed out for the user to see which character they would like to utilize for the game. When playing the game, the user can choose to Attack, Dodge, or perform a Special attack on their opponent's play, which would affect both the health of the opponent and the user's character. If both characters attack or special attack, both their attacks will affect the other's health. If one chooses to attack or special attack and the other dodges, the character who dodged will not receive any damage. If both of the characters dodge, neither of their healths will be affected. After each round, information about whether or not the opponent dodged, how much damage each character dealt and doged, their current health status, and how many cooldown rounds they have left if they used their special attack will be printed on the screen. The game keeps going, asking the user to attack, dodge, or special attack as long as both character's still have a health that is above 0. Once either of the health's touch 0, the game will end and the winner will be printed on the screen. Whoever's health reaches 0 first, even on the same round, would lose The user will be asked if they would like their transcript printed out at the end of the game, the name of their transcript would also be printed out. 
