@@ -1,0 +1,16 @@
+# ----------------------------
+# Kyla Monique Cabrera 
+# October 06, 2023
+#
+# No References 
+# 
+# README
+#
+# README TotalPrice.py 
+# This script calculates and displays the cost of an item plus the sales tax in California as long as the inputted value is a number above 0 and an actual digit. If the number is a digit, the code with convert the string into a float. 
+#
+# README Celsius.py 
+# This script converts an inputted temperature in fahrenheit and converts it to the temperature in celsius as long as the temperature has been seen on planet earth. I used record heat and record cold weather as the boundaries.
+#
+# README fishVsfishes.py
+# This script asks the user to input three different fish types and prints out the plural form of the input. If they are of the same species, "fish" will be printed out whereas "fishes" would be printed out if they are of different species. 

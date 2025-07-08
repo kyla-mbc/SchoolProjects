@@ -1,0 +1,121 @@
+
+Player: Barbarian(Kyla) vs Paladin
+Opponent: Paladin, Starting Health: 80
+Your Player Type: Barbarian, Starting Health: 100
+Good Luck! You're going to need it.
+
+
+Round 1:
+	Barbarian chose: Special attack
+	Paladin chose: Attack
+	Barbarian missed.
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 80
+
+Round 2:
+	Barbarian chose: Attack
+	Paladin chose: Dodge
+	The Paladin dodged.
+	Barbarian's health: 100, Paladin's health: 80
+
+Round 3:
+	Barbarian chose: Attack
+	Paladin chose: Attack
+	Barbarian missed.
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 80
+
+Round 4:
+	Barbarian chose: Attack
+	Paladin chose: Attack
+	Barbarian's damage done: 37
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 5:
+	Barbarian chose: Attack
+	Paladin chose: Special attack
+	Barbarian missed.
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 6:
+	Barbarian chose: Attack
+	Paladin chose: Dodge
+	The Paladin dodged.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 7:
+	Barbarian chose: Attack
+	Paladin chose: Dodge
+	The Paladin dodged.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 8:
+	Barbarian chose: Attack
+	Paladin chose: Dodge
+	The Paladin dodged.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 9:
+	Barbarian chose: Attack
+	Paladin chose: Special attack
+	Barbarian missed.
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 10:
+	Barbarian chose: Special attack
+	Paladin chose: Attack
+	Barbarian missed.
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 11:
+	Barbarian chose: Attack
+	Paladin chose: Special attack
+	Barbarian missed.
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 12:
+	Barbarian chose: Attack
+	Paladin chose: Attack
+	Barbarian missed.
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 43
+
+Round 13:
+	Barbarian chose: Attack
+	Paladin chose: Special attack
+	Barbarian's damage done: 37
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 6
+
+Round 14:
+	Barbarian chose: Attack
+	Paladin chose: Dodge
+	The Paladin dodged.
+	Barbarian's health: 100, Paladin's health: 6
+
+Round 15:
+	Barbarian chose: Attack
+	Paladin chose: Attack
+	Barbarian missed.
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 6
+
+Round 16:
+	Barbarian chose: Attack
+	Paladin chose: Dodge
+	The Paladin dodged.
+	Barbarian's health: 100, Paladin's health: 6
+
+Round 17:
+	Barbarian chose: Attack
+	Paladin chose: Special attack
+	Barbarian's damage done: 36
+	The Paladin missed.
+	Barbarian's health: 100, Paladin's health: 0
+
+Congratulations, Kyla! You defeated the Paladin!

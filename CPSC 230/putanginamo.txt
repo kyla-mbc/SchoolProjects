@@ -1,0 +1,19 @@
+
+Player: Wizard(Puta) vs Rogue
+
+
+Round 1:
+	Wizard chose: Attack
+	Rogue chose: Dodge
+	Wizard's damage done: 32
+	Rogue's damage done: 0
+	Wizard's health: 80, Rogue's health: 28
+
+Round 2:
+	Wizard chose: Attack
+	Rogue chose: Attack
+	Wizard's damage done: 35
+	Rogue's damage done: 3
+	Wizard's health: 77, Rogue's health: 0
+
+Congratulations Puta, You have defeated the Rogue!
